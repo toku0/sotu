@@ -7,7 +7,7 @@ export function Hero() {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center space-y-8">
           <div className="inline-block px-4 py-2 bg-primary/10 rounded-full">
-            <span className="text-sm font-medium text-primary">2024年度 卒業制作プロジェクト</span>
+            <span className="text-sm font-medium text-primary">2025年度</span>
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-balance">
